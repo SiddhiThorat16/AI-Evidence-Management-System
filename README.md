@@ -125,4 +125,4 @@ The name **ProofChain** reflects the focus on:
 
 ---
 
-> This project is developed as part of [Semester/Program Name], [College/Institute Name].
+> This project is developed as part of Semester 7&8, DYPIEMR.
